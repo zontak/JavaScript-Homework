@@ -1,0 +1,5 @@
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\05.DecimalToHexadecimal\bin\05.DecimalToHexadecimal.dll.config
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\05.DecimalToHexadecimal\bin\05.DecimalToHexadecimal.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\05.DecimalToHexadecimal\bin\05.DecimalToHexadecimal.pdb
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\05.DecimalToHexadecimal\obj\Debug\05.DecimalToHexadecimal.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\05.DecimalToHexadecimal\obj\Debug\05.DecimalToHexadecimal.pdb

@@ -1,0 +1,6 @@
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\06.TicTacToe\bin\06.TicTacToe.dll.config
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\06.TicTacToe\bin\06.TicTacToe.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\06.TicTacToe\bin\06.TicTacToe.pdb
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\06.TicTacToe\obj\Debug\06.TicTacToe.csprojResolveAssemblyReference.cache
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\06.TicTacToe\obj\Debug\06.TicTacToe.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\06.TicTacToe\obj\Debug\06.TicTacToe.pdb

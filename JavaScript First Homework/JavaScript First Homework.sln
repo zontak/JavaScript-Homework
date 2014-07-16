@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HomeTown", "01.HomeTown\01.HomeTown.csproj", "{5B79840E-B049-4BAC-8457-30335B39A541}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "02.Numbers1to10", "Numbers1to10\02.Numbers1to10.njsproj", "{4F3752DF-3CCE-434B-BE31-59680A506FD4}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "03.CurrentTime", "03.CurrentTime\03.CurrentTime.njsproj", "{C555D6C6-214E-48A5-AF79-E434357301A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. CircleArea", "04. CircleArea\04. CircleArea.csproj", "{4D578689-576A-41FF-90AF-68B4F5E607F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.DecimalToHexadecimal", "05.DecimalToHexadecimal\05.DecimalToHexadecimal.csproj", "{3BE2165C-9251-4821-BF80-69FA82721094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.TicTacToe", "06.TicTacToe\06.TicTacToe.csproj", "{963D5D5A-DBD6-46AF-BD17-9C7222F83B9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.FallingRocksGame", "07.FallingRocksGame\07.FallingRocksGame.csproj", "{D035E203-4A4E-4B1C-BE88-055EECD1FAB4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B79840E-B049-4BAC-8457-30335B39A541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B79840E-B049-4BAC-8457-30335B39A541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B79840E-B049-4BAC-8457-30335B39A541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B79840E-B049-4BAC-8457-30335B39A541}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F3752DF-3CCE-434B-BE31-59680A506FD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F3752DF-3CCE-434B-BE31-59680A506FD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F3752DF-3CCE-434B-BE31-59680A506FD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F3752DF-3CCE-434B-BE31-59680A506FD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C555D6C6-214E-48A5-AF79-E434357301A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C555D6C6-214E-48A5-AF79-E434357301A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C555D6C6-214E-48A5-AF79-E434357301A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C555D6C6-214E-48A5-AF79-E434357301A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D578689-576A-41FF-90AF-68B4F5E607F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D578689-576A-41FF-90AF-68B4F5E607F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D578689-576A-41FF-90AF-68B4F5E607F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D578689-576A-41FF-90AF-68B4F5E607F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE2165C-9251-4821-BF80-69FA82721094}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE2165C-9251-4821-BF80-69FA82721094}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE2165C-9251-4821-BF80-69FA82721094}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE2165C-9251-4821-BF80-69FA82721094}.Release|Any CPU.Build.0 = Release|Any CPU
+		{963D5D5A-DBD6-46AF-BD17-9C7222F83B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{963D5D5A-DBD6-46AF-BD17-9C7222F83B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{963D5D5A-DBD6-46AF-BD17-9C7222F83B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{963D5D5A-DBD6-46AF-BD17-9C7222F83B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D035E203-4A4E-4B1C-BE88-055EECD1FAB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D035E203-4A4E-4B1C-BE88-055EECD1FAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D035E203-4A4E-4B1C-BE88-055EECD1FAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D035E203-4A4E-4B1C-BE88-055EECD1FAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

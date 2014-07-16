@@ -1,0 +1,6 @@
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\07.FallingRocksGame\bin\07.FallingRocksGame.dll.config
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\07.FallingRocksGame\bin\07.FallingRocksGame.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\07.FallingRocksGame\bin\07.FallingRocksGame.pdb
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\07.FallingRocksGame\obj\Debug\07.FallingRocksGame.csprojResolveAssemblyReference.cache
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\07.FallingRocksGame\obj\Debug\07.FallingRocksGame.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\07.FallingRocksGame\obj\Debug\07.FallingRocksGame.pdb

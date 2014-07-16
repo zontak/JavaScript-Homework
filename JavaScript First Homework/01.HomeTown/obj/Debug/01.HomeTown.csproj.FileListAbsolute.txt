@@ -1,0 +1,6 @@
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\01.HomeTown\bin\01.HomeTown.dll.config
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\01.HomeTown\bin\01.HomeTown.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\01.HomeTown\bin\01.HomeTown.pdb
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\01.HomeTown\obj\Debug\01.HomeTown.csprojResolveAssemblyReference.cache
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\01.HomeTown\obj\Debug\01.HomeTown.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\01.HomeTown\obj\Debug\01.HomeTown.pdb

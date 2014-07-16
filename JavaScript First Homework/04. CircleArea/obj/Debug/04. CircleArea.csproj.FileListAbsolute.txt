@@ -1,0 +1,6 @@
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\04. CircleArea\bin\_04.CircleArea.dll.config
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\04. CircleArea\bin\_04.CircleArea.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\04. CircleArea\bin\_04.CircleArea.pdb
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\04. CircleArea\obj\Debug\04. CircleArea.csprojResolveAssemblyReference.cache
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\04. CircleArea\obj\Debug\_04.CircleArea.dll
+c:\users\zonta_000\documents\visual studio 2013\Projects\JavaScript First Homework\04. CircleArea\obj\Debug\_04.CircleArea.pdb
