@@ -1,0 +1,6 @@
+C:\Users\zonta_000\documents\visual studio 2013\Projects\JavaScript Second Homework\14.CalculateExpression\bin\14.CalculateExpression.dll.config
+C:\Users\zonta_000\documents\visual studio 2013\Projects\JavaScript Second Homework\14.CalculateExpression\bin\14.CalculateExpression.dll
+C:\Users\zonta_000\documents\visual studio 2013\Projects\JavaScript Second Homework\14.CalculateExpression\bin\14.CalculateExpression.pdb
+C:\Users\zonta_000\documents\visual studio 2013\Projects\JavaScript Second Homework\14.CalculateExpression\obj\Debug\14.CalculateExpression.csprojResolveAssemblyReference.cache
+C:\Users\zonta_000\documents\visual studio 2013\Projects\JavaScript Second Homework\14.CalculateExpression\obj\Debug\14.CalculateExpression.dll
+C:\Users\zonta_000\documents\visual studio 2013\Projects\JavaScript Second Homework\14.CalculateExpression\obj\Debug\14.CalculateExpression.pdb

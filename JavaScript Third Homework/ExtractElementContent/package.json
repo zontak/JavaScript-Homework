@@ -1,0 +1,10 @@
+{
+  "name": "ExtractElementContent",
+  "version": "0.0.0",
+  "description": "ExtractElementContent",
+  "main": "app.js",
+  "author": {
+    "name": "zonta_000",
+    "email": ""
+  }
+}

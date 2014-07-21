@@ -1,0 +1,11 @@
+﻿#input{
+    background-color: blue;
+    color: orange;
+}
+
+#result{
+    width: 100px;
+    height: 20px;
+    background-color: blue;
+    color: orange;
+}
