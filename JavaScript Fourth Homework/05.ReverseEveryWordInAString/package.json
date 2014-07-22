@@ -1,0 +1,10 @@
+{
+  "name": "_05.ReverseEveryWordInAString",
+  "version": "0.0.0",
+  "description": "05.ReverseEveryWordInAString",
+  "main": "app.js",
+  "author": {
+    "name": "zonta_000",
+    "email": ""
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "_03.LargestSumOfDigits",
+  "version": "0.0.0",
+  "description": "03.LargestSumOfDigits",
+  "main": "app.js",
+  "author": {
+    "name": "zonta_000",
+    "email": ""
+  }
+}
